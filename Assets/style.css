@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#intro{
+    width: 750px;
+    height: 600px;
+    padding: 80px;
+    margin: 20px;
+
+}
+
+#intro .slid  img{
+width: 100%;
+height: 100%;
+margin-top: -16px;
+margin-left: 20px;
+}
+
+.time{
+    top: -9px;
+    position: absolute;
+    padding: 0px 589px;
+    font-size: 20px;
+}
+
+
+.iconlike{
+    top: -403px;
+    position: relative;
+    padding: 20px 28px;
+    font-size:20px ;
+}
+
+.slid{
+    position: relative;
+}
+
+.heart i{
+    top: -10px;
+    padding: 1px 586px;
+    position: absolute;
+    color: blue;
+    font-size: 20px;
+}
+.solid i{
+    top: -12px;
+padding: 4px 21px;
+position: absolute;
+color: red;
+}
+
+
+.left i {
+    top: 5px;
+    padding: 176px 24px ;
+    position: absolute;
+    color: red;
+    font-size: 40px;
+}
+
+.right i {
+    top: 175px;
+    padding: 12px 584px;
+    position: absolute;
+    color: red;
+    font-size: 40px;
+}
+
+
+#start .slider img {
+width: 100%;
+height: 100%;
+margin-top: -16px;
+margin-left: 20px;
+}
+
+#start{
+    width: 750px;
+    height: 600px;
+    padding: 80px;
+    margin: 40px;
+}
+
+
+.slider{
+    position: relative;
+}
+
+.heart i{
+top: -11px;
+padding: 0 585px;
+position: absolute;
+color: yellow;
+font-size: 22px;
+}
+
+.solo i {
+top: -12px;
+padding: 0 20px;
+position: absolute;
+color: green;
+font-size: 22px;
+}
+
+.left i{
+    top: 2px;
+    padding: -2px 5px;
+    position: absolute;
+    color: brown;
+}
+
+.right i{
+    top: 2px;
+    padding: 175px 586px;
+    position: absolute;
+    color: brown;
+}
